@@ -9,7 +9,7 @@
 
 # About ME :
 
-<img hight="400" width="500" alt="GIF" align="right" src="elyy.webp">  
+<img alt="GIF" align="right" src="elyy.webp">  
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -19,9 +19,9 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels (especially romcom)
-- 
+
+<p align="center">Follow Me On Social Media </p> 
 <p align="center">
-  *Follow me on media social*  
   <strong><a href="https://www.instagram.com/ekaawahhyuu/">Instagram</a></strong> |
   <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
   <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
