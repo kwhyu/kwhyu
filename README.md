@@ -14,6 +14,7 @@
 
 ### - Learning :
 - ✨ Mobile Development
+- ✨ Web Development
 - ✨ Cyber Security
 
 ### - Hobbies : 
