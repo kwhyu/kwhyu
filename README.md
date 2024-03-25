@@ -5,7 +5,7 @@
   <img src="meii senpaiii.webp" alt="Banner">
 </p>
 
-<h1 align="center">Halo~ aku Eka Wahyu</h1>
+<h1 align="center">Halo~</h1>
 </br>
 
 # About ME :
