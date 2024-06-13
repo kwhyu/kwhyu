@@ -27,7 +27,9 @@
 
 # Languages & Tools 👨‍💻 🛠:
 - ✨ Java
-- ✨ Kotlin (On learning)
+- ✨ Kotlin
+- ✨ PHP
+- ✨ Dart
 - ✨ Visual Studio Code
 - ✨ Android Studio
 </br>
