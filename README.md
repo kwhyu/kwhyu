@@ -64,10 +64,10 @@
   <a href="https://www.instagram.com/ekaawahhyuu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/[USERNAME-ANDA]" target="_blank">
+  <a href="https://www.linkedin.com/in/eka-wahyu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:eka.wahyu.dev@gmail.com" target="_blank">
+  <a href="mailto:ekawahyu9311@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
