@@ -1,44 +1,56 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
   <h1>Hi, I'm <a href="https://github.com/kwhyu">Eka Wahyu</a> 👋</h1>
-  <h3>Mobile & Web Developer | Passionate about building seamless digital experiences 🚀</h3>
+  <h3>Mobile & Web Developer | Game Enthusiast | Networking Explorer</h3>
 </div>
 
 ---
 
-### 🎯 Core Competencies
-- 📱 **Mobile Development**: Kotlin, Java, Flutter (Dart)  
-- 🌐 **Web Development**: PHP (Laravel)  
-- 🛠️ **Software Craftsmanship**: Clean Code, Scalable Architecture, and UI/UX focus  
+## 👤 About Me
+- 💻 I’m a **Mobile & Web Developer** passionate about building seamless applications.  
+- 🎮 I also enjoy **Game Development** with Unity & Flutter Flame.  
+- 🌐 Interested in **Networking** and system optimization.  
+- 🚀 Always curious to explore new technologies and frameworks.  
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🧑‍💻 Skills & Expertise
 
-#### 📱 Mobile
-<p>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</p>
+### 🎨 Frontend
+- **Web:** React, PHP  
+- **Mobile:** Kotlin, Dart (Flutter)  
 
-#### 🌐 Web
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-</p>
+### ⚙️ Backend
+- JavaScript (Node.js)  
+- PHP (Laravel)  
 
-#### ⚒️ Tools
+### 🎮 Game Development
+- Unity (C#)  
+- Flutter Flame (Dart)  
+
+### 🌐 Networking
+- Basic networking, configuration, and optimization  
+
+---
+
+## 🛠️ Tools & Technologies
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
-
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/kwhyu">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -48,7 +60,7 @@
 
 ---
 
-### 🤝 Connect with Me
+## 📫 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/ekaawahhyuu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -60,8 +72,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### ✨ Fun Fact
-⚡ I love experimenting with new technologies, contributing to open-source, and turning ideas into real products!
