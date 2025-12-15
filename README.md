@@ -28,6 +28,15 @@
 
 <br/>
 
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kwhyu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
 <!-- Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&is_rotating=true" alt="Quote" />
@@ -65,6 +74,15 @@
 
 <br/>
 
+<!-- WakaTime Stats (Automated) -->
+<h3 align="center">⏳ Weekly Coding Status</h3>
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
+
+<br/>
+
 <!-- Tech Stack -->
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
@@ -93,6 +111,14 @@
 </div>
 
 <br/>
+<br/>
+
+<!-- 3D Isometric Graph -->
+<h3 align="center">🧱 3D Contribution City</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kwhyu/kwhyu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-graph" width="100%"/>
+</div>
+
 <br/>
 
 <!-- Snake Animation -->
