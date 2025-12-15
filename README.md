@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  <h1>Hi there, I'm <a href="https://github.com/kwhyu">Eka Wahyu</a>! 👋</h1>
+  <h1><a href="https://github.com/kwhyu">Eka Wahyu</a></h1>
   
   <!-- Typing SVG: Adds a dynamic typing effect to the header -->
   <a href="https://git.io/typing-svg">
@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/kwhyu">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwhyu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   </a>
 </div>
@@ -81,5 +81,5 @@
 <div align="center">
   <br>
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=kwhyu&label=Profile%20Views&color=blue-grey&style=flat-square" alt="kwhyu" />
+  <img src="https://komarev.com/ghpvc/?username=kwhyu&label=Profile%20Views&color=blue&style=flat-square" alt="kwhyu" />
 </div>
