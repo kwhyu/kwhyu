@@ -29,9 +29,9 @@
 <br/>
 
 <!-- Quote -->
-<h3 align="center">
-    <i>"The best way to predict the future is to invent it."</i>
-</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&is_rotating=true" alt="Quote" />
+</div>
 
 <br/>
 <br/>
