@@ -1,19 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   <h1><a href="https://github.com/kwhyu">Eka Wahyu</a></h1>
   
   <!-- Typing SVG: Adds a dynamic typing effect to the header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Mobile+%26+Web+Developer;Game+Enthusiast;Networking+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Mobile+%26+Web+Developer;Game+Enthusiast;Networking+Explorer;Open+Source+Contributor&center=true" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <!-- Trophies: Gamifies your profile -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kwhyu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
+
 
 ---
 
@@ -39,7 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/kwhyu">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwhyu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   </a>
 </div>
