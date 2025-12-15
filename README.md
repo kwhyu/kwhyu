@@ -1,6 +1,10 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=kwhyu&label=Profile%20Views&color=blue&style=flat-square" alt="kwhyu" />
+</div>
+
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eka%20Wahyu&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eka%20Wahyu&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
   <br/>
   
   <!-- Typing SVG -->
@@ -25,9 +29,9 @@
 <br/>
 
 <!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&is_rotating=true" alt="Quote" />
-</div>
+<h3 align="center">
+    <i>"The best way to predict the future is to invent it."</i>
+</h3>
 
 <br/>
 <br/>
@@ -58,7 +62,14 @@
 <!-- Tech Stack -->
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,php,kotlin,dart,flutter,unity,js,nodejs,laravel,git,vscode,androidstudio,mysql,firebase&perline=10" />
+  <!-- Main Stack -->
+  <img src="https://skillicons.dev/icons?i=react,php,kotlin,dart,flutter,unity,js,nodejs,laravel,python,mariadb,firebase,git,vscode,androidstudio,mysql&perline=10" />
+  <br/>
+  <br/>
+  <!-- Additional Badges for specific libraries -->
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
+  <img src="https://img.shields.io/badge/ReUI-4F46E5?style=for-the-badge&logo=react&logoColor=white" alt="ReUI" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
 </div>
 
 <br/>
@@ -98,8 +109,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&animation=fadeIn" width="100%"/>
-  <br/>
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=kwhyu&label=Profile%20Views&color=blue&style=flat-square" alt="kwhyu" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=25&animation=fadeIn" width="100%"/>
 </div>
