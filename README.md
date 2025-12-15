@@ -78,6 +78,15 @@
 <h3 align="center">⏳ Weekly Coding Status</h3>
 <div align="center">
 <!--START_SECTION:waka-->
+
+```txt
+From: 07 December 2025 - To: 14 December 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </div>
 
