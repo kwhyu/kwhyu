@@ -63,13 +63,7 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
   <!-- Main Stack -->
-  <img src="https://skillicons.dev/icons?i=react,php,kotlin,dart,flutter,unity,js,nodejs,laravel,python,mariadb,firebase,git,vscode,androidstudio,mysql&perline=10" />
-  <br/>
-  <br/>
-  <!-- Additional Badges for specific libraries -->
-  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
-  <img src="https://img.shields.io/badge/ReUI-4F46E5?style=for-the-badge&logo=react&logoColor=white" alt="ReUI" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
+  <img src="https://skillicons.dev/icons?i=react,php,kotlin,dart,flutter,unity,js,nodejs,laravel,python,mariadb,firebase,git,vscode,androidstudio,mysql,reactquery,tailwind&perline=10" />
 </div>
 
 <br/>
