@@ -38,23 +38,29 @@
 
 <!-- About Me Section with 2 Columns (Image + Text) if possible, but sticking to standard markdown for safety -->
 <h3 align="center">🧐 About Me</h3>
+
+<p align="center">
+  <em>"Turning coffee into code and ideas into reality."</em>
+</p>
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="60%" valign="top">
-        <ul>
-           <li>💻 I’m a <strong>Mobile & Web Developer</strong> passionate about seamless apps.</li>
-           <li>🎮 I build games with <strong>Unity & Flutter Flame</strong>.</li>
-           <li>🌐 Exploring <strong>Networking</strong> & system optimization.</li>
-           <li>🚀 Always curious about new stacks.</li>
-           <li>⚡ <strong>Fun fact:</strong> Bug fixing gives me an adrenaline rush!</li>
-        </ul>
-      </td>
-      <td width="40%" valign="center" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Programming Gif"/>
-      </td>
-    </tr>
-  </table>
+  I am a passionate <strong>Mobile & Web Developer</strong>. <br/>
+  I love building seamless applications and exploring the depths of system optimization. <br/>
+  When I'm not coding web apps, I'm developing immersive games with <strong>Unity & Flutter Flame</strong>.
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Programming Gif"/>
+</div>
+
+<br/>
+
+<div align="center">
+  🔭 <strong>Current Focus:</strong> Full Stack Development & Game Mechanics <br/>
+  🌱 <strong>Learning:</strong> Advanced Networking & Cloud Architecture <br/>
+  ⚡ <strong>Fun Fact:</strong> Bug fixing gives me an adrenaline rush!
 </div>
 
 <br/>
