@@ -93,7 +93,7 @@
 <br/>
 <!-- WakaTime Stats (Automated) -->
 <h3 align="center">⏳ Coding Time Stats</h3>
-<div align="center">
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -105,7 +105,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-</div>
 
 <br/>
 <br/>
