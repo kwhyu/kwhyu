@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=kwhyu&label=Profile%20Views&color=blue&style=flat-square" alt="kwhyu" />
 </div>
 
-<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eka%20Wahyu&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
   <br/>
@@ -13,7 +12,6 @@
   </a>
 </div>
 
-<!-- Social Badges (Clean list below text) -->
 <div align="center">
   <a href="https://www.instagram.com/ekaawahhyuu/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
@@ -28,13 +26,6 @@
 
 <br/>
 
-<br/>
-
-
-
-
-
-<!-- About Me Section with 2 Columns (Image + Text) if possible, but sticking to standard markdown for safety -->
 <h3 align="center">🧐 About Me</h3>
 
 <p align="center">
@@ -63,11 +54,46 @@
 
 <br/>
 
-<!-- WakaTime Stats (Automated) -->
-<h3 align="center">⏳ Coding Stats</h3>
+<h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
-<!--START_SECTION:waka-->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
+<br/>
+<br/>
+
+<div align="center">
+  <table border="0" style="width: 100%; text-align: center;">
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <h3>📈 GitHub Stats</h3>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" height="160" />
+      </td>
+      <td align="center" width="50%" valign="top">
+        <h3>🏆 Top Languages</h3>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kwhyu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" />
+      </td>
+    </tr>
+    <tr>
+       <td align="center" width="50%" valign="top">
+        <h3>⏳ Coding Time Stats</h3>
+        <!--START_SECTION:waka-->
 ```txt
 From: 14 December 2025 - To: 04 March 2026
 
@@ -75,63 +101,41 @@ Total Time: 0 secs
 
 No activity tracked
 ```
-
-<!--END_SECTION:waka-->
-</div>
-
-<br/>
-
-<!-- Tech Stack -->
-<h3 align="center">🛠️ Languages and Tools</h3>
-<div align="center">
-  <!-- Main Stack -->
-  <img src="https://skillicons.dev/icons?i=react,php,kotlin,dart,flutter,unity,js,nodejs,laravel,python,mariadb,docker,firebase,git,vscode,androidstudio,mysql,reactquery,tailwind&perline=10" />
-</div>
-
-<br/>
-<br/>
-
-<!-- GitHub Stats (Side by Side) -->
-<h3 align="center">📈 GitHub Stats</h3>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" height="160" />
+        <!--END_SECTION:waka-->
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kwhyu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" />
+      <td align="center" width="50%" valign="top">
+        <h3>🔥 GitHub Streak</h3>
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwhyu&theme=tokyonight&hide_border=true" alt="git streak" width="100%" />
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwhyu&theme=tokyonight&hide_border=true" alt="git streak" width="80%" />
 </div>
 
 <br/>
 <br/>
 
-<!-- 3D Isometric Graph -->
-<h3 align="center">🧱 3D Contribution City</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kwhyu/kwhyu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-graph" width="100%"/>
+  <table border="0" style="width: 100%; text-align: center;">
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <h3>🐍 Contribution Activity</h3>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwhyu/kwhyu/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwhyu/kwhyu/output/github-contribution-grid-snake.svg">
+          <img alt="github snake" src="https://raw.githubusercontent.com/kwhyu/kwhyu/output/github-contribution-grid-snake.svg" width="100%" />
+        </picture>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <h3>🧱 3D Contribution City</h3>
+        <img src="https://raw.githubusercontent.com/kwhyu/kwhyu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-graph" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- Snake Animation -->
-<h3 align="center">🐍 Contribution Activity</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwhyu/kwhyu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwhyu/kwhyu/output/github-contribution-grid-snake.svg">
-    <img alt="github snake" src="https://raw.githubusercontent.com/kwhyu/kwhyu/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=25&animation=fadeIn" width="100%"/>
 </div>
