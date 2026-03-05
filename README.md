@@ -32,13 +32,7 @@
 
 
 
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&is_rotating=true" alt="Quote" />
-</div>
 
-<br/>
-<br/>
 
 <!-- About Me Section with 2 Columns (Image + Text) if possible, but sticking to standard markdown for safety -->
 <h3 align="center">🧐 About Me</h3>
@@ -91,7 +85,7 @@ No activity tracked
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
   <!-- Main Stack -->
-  <img src="https://skillicons.dev/icons?i=react,php,kotlin,dart,flutter,unity,js,nodejs,laravel,python,mariadb,firebase,git,vscode,androidstudio,mysql,reactquery,tailwind&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,php,kotlin,dart,flutter,unity,js,nodejs,laravel,python,mariadb,docker,firebase,git,vscode,androidstudio,mysql,reactquery,tailwind&perline=10" />
 </div>
 
 <br/>
@@ -103,10 +97,10 @@ No activity tracked
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" height="160" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" height="160" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwhyu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kwhyu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" />
       </td>
     </tr>
   </table>
