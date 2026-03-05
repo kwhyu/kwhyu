@@ -54,7 +54,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center">🛠️ Used tech</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -67,12 +67,42 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elysia.js-FF004D?style=for-the-badge&logo=bun&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <h3>📈 GitHub Stats</h3>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" />
+</div>
+
+<br/>
+<br/>
+<!-- WakaTime Stats (Automated) -->
+<h3 align="center">⏳ Coding Time Stats</h3>
+<div align="center">
+<!--START_SECTION:waka-->
+```txt
+From: 14 December 2025 - To: 03 March 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+<!--END_SECTION:waka-->
 </div>
 
 <br/>
@@ -82,28 +112,8 @@
   <table border="0" style="width: 100%; text-align: center;">
     <tr>
       <td align="center" width="50%" valign="top">
-        <h3>📈 GitHub Stats</h3>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" height="160" />
-      </td>
-      <td align="center" width="50%" valign="top">
         <h3>🏆 Top Languages</h3>
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kwhyu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" />
-      </td>
-    </tr>
-    <tr>
-       <td align="center" width="50%" valign="top">
-        <h3>⏳ Coding Time Stats</h3>
-        <!--START_SECTION:waka-->
-
-```txt
-From: 14 December 2025 - To: 04 March 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
       </td>
       <td align="center" width="50%" valign="top">
         <h3>🔥 GitHub Streak</h3>
