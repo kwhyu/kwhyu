@@ -84,12 +84,7 @@
 <br/>
 <br/>
 
-<div align="center">
-  <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" />
-</div>
 
-<br/>
 <br/>
 <!-- WakaTime Stats (Automated) -->
 <h3 align="center">⏳ Coding Time Stats</h3>
@@ -138,6 +133,9 @@ No activity tracked
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwhyu/kwhyu/output/github-contribution-grid-snake.svg">
           <img alt="github snake" src="https://raw.githubusercontent.com/kwhyu/kwhyu/output/github-contribution-grid-snake.svg" width="100%" />
         </picture>
+        <br/>
+        <h3>📈 GitHub Stats</h3>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kwhyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" />
       </td>
       <td align="center" width="50%" valign="top">
         <h3>🧱 3D Contribution City</h3>
