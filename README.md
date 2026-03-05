@@ -94,6 +94,7 @@
        <td align="center" width="50%" valign="top">
         <h3>⏳ Coding Time Stats</h3>
         <!--START_SECTION:waka-->
+
 ```txt
 From: 14 December 2025 - To: 04 March 2026
 
@@ -101,7 +102,8 @@ Total Time: 0 secs
 
 No activity tracked
 ```
-        <!--END_SECTION:waka-->
+
+<!--END_SECTION:waka-->
       </td>
       <td align="center" width="50%" valign="top">
         <h3>🔥 GitHub Streak</h3>
